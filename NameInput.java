@@ -1,3 +1,15 @@
+/* 
+                    Write an application that uses an input dialog to read a person's name in the format:
+
+                           first space middle space last         (Matt Brian Linenberger)          
+                           DISPLAY 
+                           last  comma space first space middle dot(Linenberger, Matt B.)
+                           
+                           For example, the input name JOHN QUINCY ADAMS becomes ADAMS, JOHN Q.
+                           use indexOF, and substring.
+*/
+
+
 import java.util.Scanner;
 
 public class NameInput
